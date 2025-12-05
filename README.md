@@ -1,6 +1,6 @@
 Student Achievement Analysis
 Programming Project – Data Analysis with Python  
-Course: CS (or your course name)  
+Course: Programming 1
 Author: Onyx Gombo, Victoria Bodunrinde
 
 ---
@@ -28,3 +28,10 @@ Each question is answered using Python code, data grouping, summary statistics, 
 Project Structure
 
 Your project folder should include:
+
+- Data Folder: Containg CSV
+- README.md
+- requirements.txt
+- project.html file
+
+
